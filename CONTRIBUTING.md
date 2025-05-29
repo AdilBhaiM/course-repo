@@ -1,1 +1,0 @@
-this is my CONTRIBUTING.md file
